@@ -2,7 +2,7 @@
 
 Predict the Google stock price with RNN and keras.
 
-use 1 stepstime and 20 stepstime to predict the stockprice in 2017.
+Predict_Google_Stock_Price_RNN.ipyth : use 1 stepstime and 20 stepstime and metheod with 4 layer RNN to predict the stockprice in 2017.
 
 
 Google_Stock_Price_Train.csv : Google Stock Price from Feb 1st 2012 - Dec 31st 2016.
