@@ -10,4 +10,5 @@ Google_Stock_Price_Train.csv : Google Stock Price from Feb 1st 2012 - Dec 31st 2
 Google_Stock_Price_Train.csv : Google Stock price from Jan 1st 2017 - Feb 1st 2017.
 
 Reference
-https://www.superdatascience.com/deep-learning/
+http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf.
+https://www.superdatascience.com/deep-learning/.
