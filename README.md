@@ -11,5 +11,4 @@ Google_Stock_Price_Test.csv : Google Stock price from Jan 1st 2017 - Feb 1st 201
 Reference :
   
 http://cs229.stanford.edu/proj2012/BernalFokPidaparthi-FinancialMarketTimeSeriesPredictionwithRecurrentNeural.pdf.
-
 https://www.superdatascience.com/deep-learning/.
